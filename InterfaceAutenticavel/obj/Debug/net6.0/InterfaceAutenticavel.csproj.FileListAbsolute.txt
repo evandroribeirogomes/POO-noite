@@ -1,0 +1,15 @@
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.csproj.AssemblyReference.cache
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.AssemblyInfoInputs.cache
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.AssemblyInfo.cs
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.csproj.CoreCompileInputs.cache
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.exe
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.deps.json
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.runtimeconfig.json
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.dll
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.pdb
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.dll
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\InterfaceAutenticavel\obj\Debug\net6.0\refint\InterfaceAutenticavel.dll
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.pdb
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.genruntimeconfig.cache
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\InterfaceAutenticavel\obj\Debug\net6.0\ref\InterfaceAutenticavel.dll

@@ -1,0 +1,30 @@
+J:\POO noite\AbstratoDepartmento\obj\Debug\net6.0\AbstratoDepartmento.csproj.AssemblyReference.cache
+J:\POO noite\AbstratoDepartmento\obj\Debug\net6.0\AbstratoDepartmento.GeneratedMSBuildEditorConfig.editorconfig
+J:\POO noite\AbstratoDepartmento\obj\Debug\net6.0\AbstratoDepartmento.AssemblyInfoInputs.cache
+J:\POO noite\AbstratoDepartmento\obj\Debug\net6.0\AbstratoDepartmento.AssemblyInfo.cs
+J:\POO noite\AbstratoDepartmento\obj\Debug\net6.0\AbstratoDepartmento.csproj.CoreCompileInputs.cache
+J:\POO noite\AbstratoDepartmento\bin\Debug\net6.0\AbstratoDepartmento.exe
+J:\POO noite\AbstratoDepartmento\bin\Debug\net6.0\AbstratoDepartmento.deps.json
+J:\POO noite\AbstratoDepartmento\bin\Debug\net6.0\AbstratoDepartmento.runtimeconfig.json
+J:\POO noite\AbstratoDepartmento\bin\Debug\net6.0\AbstratoDepartmento.dll
+J:\POO noite\AbstratoDepartmento\bin\Debug\net6.0\AbstratoDepartmento.pdb
+J:\POO noite\AbstratoDepartmento\obj\Debug\net6.0\AbstratoDepartmento.dll
+J:\POO noite\AbstratoDepartmento\obj\Debug\net6.0\refint\AbstratoDepartmento.dll
+J:\POO noite\AbstratoDepartmento\obj\Debug\net6.0\AbstratoDepartmento.pdb
+J:\POO noite\AbstratoDepartmento\obj\Debug\net6.0\AbstratoDepartmento.genruntimeconfig.cache
+J:\POO noite\AbstratoDepartmento\obj\Debug\net6.0\ref\AbstratoDepartmento.dll
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\AbstratoDepartmento\obj\Debug\net6.0\AbstratoDepartmento.csproj.AssemblyReference.cache
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\AbstratoDepartmento\obj\Debug\net6.0\AbstratoDepartmento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\AbstratoDepartmento\obj\Debug\net6.0\AbstratoDepartmento.AssemblyInfoInputs.cache
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\AbstratoDepartmento\obj\Debug\net6.0\AbstratoDepartmento.AssemblyInfo.cs
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\AbstratoDepartmento\obj\Debug\net6.0\AbstratoDepartmento.csproj.CoreCompileInputs.cache
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\AbstratoDepartmento\obj\Debug\net6.0\AbstratoDepartmento.dll
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\AbstratoDepartmento\obj\Debug\net6.0\refint\AbstratoDepartmento.dll
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\AbstratoDepartmento\obj\Debug\net6.0\AbstratoDepartmento.pdb
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\AbstratoDepartmento\bin\Debug\net6.0\AbstratoDepartmento.exe
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\AbstratoDepartmento\bin\Debug\net6.0\AbstratoDepartmento.deps.json
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\AbstratoDepartmento\bin\Debug\net6.0\AbstratoDepartmento.runtimeconfig.json
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\AbstratoDepartmento\bin\Debug\net6.0\AbstratoDepartmento.dll
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\AbstratoDepartmento\bin\Debug\net6.0\AbstratoDepartmento.pdb
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\AbstratoDepartmento\obj\Debug\net6.0\AbstratoDepartmento.genruntimeconfig.cache
+C:\Users\evrib\Documents\FACULDADE\4 termo\Programação orientada a objeto\POO noite\AbstratoDepartmento\obj\Debug\net6.0\ref\AbstratoDepartmento.dll
